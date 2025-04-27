@@ -1,0 +1,584 @@
+[
+    {
+        "name": "EUFXR",
+        "parent": "null",
+        "relation": "null",
+        "depth": 0
+    },
+    {
+        "name": "CTJWO",
+        "parent": "EUFXR",
+        "relation": "bind",
+        "depth": 1
+    },
+    {
+        "name": "QJWTR",
+        "parent": "CTJWO",
+        "relation": "relate",
+        "depth": 2
+    },
+    {
+        "name": "MBWHF",
+        "parent": "QJWTR",
+        "relation": "link",
+        "depth": 3
+    },
+    {
+        "name": "DAFGG",
+        "parent": "MBWHF",
+        "relation": "rel",
+        "depth": 4
+    },
+    {
+        "name": "PDUOD",
+        "parent": "DAFGG",
+        "relation": "assoc",
+        "depth": 5
+    },
+    {
+        "name": "LDBNT",
+        "parent": "PDUOD",
+        "relation": "bind",
+        "depth": 6
+    },
+    {
+        "name": "CWYIG",
+        "parent": "LDBNT",
+        "relation": "assoc",
+        "depth": 7
+    },
+    {
+        "name": "ZRGFE",
+        "parent": "CWYIG",
+        "relation": "map",
+        "depth": 8
+    },
+    {
+        "name": "BCEIE",
+        "parent": "PDUOD",
+        "relation": "map",
+        "depth": 6
+    },
+    {
+        "name": "KOSDD",
+        "parent": "BCEIE",
+        "relation": "link",
+        "depth": 7
+    },
+    {
+        "name": "DEDIU",
+        "parent": "KOSDD",
+        "relation": "link",
+        "depth": 8
+    },
+    {
+        "name": "NMENO",
+        "parent": "KOSDD",
+        "relation": "assoc",
+        "depth": 8
+    },
+    {
+        "name": "KZJHL",
+        "parent": "PDUOD",
+        "relation": "link",
+        "depth": 6
+    },
+    {
+        "name": "RJWIR",
+        "parent": "KZJHL",
+        "relation": "map",
+        "depth": 7
+    },
+    {
+        "name": "PDVFW",
+        "parent": "RJWIR",
+        "relation": "assoc",
+        "depth": 8
+    },
+    {
+        "name": "VYOGI",
+        "parent": "QJWTR",
+        "relation": "conn",
+        "depth": 3
+    },
+    {
+        "name": "NUBAO",
+        "parent": "VYOGI",
+        "relation": "assoc",
+        "depth": 4
+    },
+    {
+        "name": "GBIIK",
+        "parent": "NUBAO",
+        "relation": "conn",
+        "depth": 5
+    },
+    {
+        "name": "IAXBC",
+        "parent": "GBIIK",
+        "relation": "link",
+        "depth": 6
+    },
+    {
+        "name": "LURVH",
+        "parent": "IAXBC",
+        "relation": "assoc",
+        "depth": 7
+    },
+    {
+        "name": "YZQMN",
+        "parent": "LURVH",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "ICOGM",
+        "parent": "IAXBC",
+        "relation": "bind",
+        "depth": 7
+    },
+    {
+        "name": "HBBFO",
+        "parent": "ICOGM",
+        "relation": "conn",
+        "depth": 8
+    },
+    {
+        "name": "IRLQG",
+        "parent": "ICOGM",
+        "relation": "link",
+        "depth": 8
+    },
+    {
+        "name": "NEXQF",
+        "parent": "ICOGM",
+        "relation": "bind",
+        "depth": 8
+    },
+    {
+        "name": "MTHUB",
+        "parent": "NUBAO",
+        "relation": "rel",
+        "depth": 5
+    },
+    {
+        "name": "SQULY",
+        "parent": "MTHUB",
+        "relation": "relate",
+        "depth": 6
+    },
+    {
+        "name": "KXYNL",
+        "parent": "SQULY",
+        "relation": "map",
+        "depth": 7
+    },
+    {
+        "name": "COBIQ",
+        "parent": "KXYNL",
+        "relation": "bind",
+        "depth": 8
+    },
+    {
+        "name": "AQPFO",
+        "parent": "SQULY",
+        "relation": "map",
+        "depth": 7
+    },
+    {
+        "name": "YNPFQ",
+        "parent": "AQPFO",
+        "relation": "map",
+        "depth": 8
+    },
+    {
+        "name": "HYISD",
+        "parent": "MTHUB",
+        "relation": "map",
+        "depth": 6
+    },
+    {
+        "name": "HFXPJ",
+        "parent": "HYISD",
+        "relation": "assoc",
+        "depth": 7
+    },
+    {
+        "name": "NDWDM",
+        "parent": "HFXPJ",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "WXMGU",
+        "parent": "HFXPJ",
+        "relation": "assoc",
+        "depth": 8
+    },
+    {
+        "name": "AMIDY",
+        "parent": "HFXPJ",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "TCNCS",
+        "parent": "HYISD",
+        "relation": "conn",
+        "depth": 7
+    },
+    {
+        "name": "YNDTJ",
+        "parent": "TCNCS",
+        "relation": "rel",
+        "depth": 8
+    },
+    {
+        "name": "WMDBV",
+        "parent": "TCNCS",
+        "relation": "link",
+        "depth": 8
+    },
+    {
+        "name": "CPSUB",
+        "parent": "NUBAO",
+        "relation": "relate",
+        "depth": 5
+    },
+    {
+        "name": "XIFRE",
+        "parent": "CPSUB",
+        "relation": "bind",
+        "depth": 6
+    },
+    {
+        "name": "TMMSM",
+        "parent": "XIFRE",
+        "relation": "assoc",
+        "depth": 7
+    },
+    {
+        "name": "PNAOG",
+        "parent": "TMMSM",
+        "relation": "map",
+        "depth": 8
+    },
+    {
+        "name": "QIUAT",
+        "parent": "TMMSM",
+        "relation": "rel",
+        "depth": 8
+    },
+    {
+        "name": "LOWOC",
+        "parent": "XIFRE",
+        "relation": "map",
+        "depth": 7
+    },
+    {
+        "name": "NVCTD",
+        "parent": "LOWOC",
+        "relation": "bind",
+        "depth": 8
+    },
+    {
+        "name": "PBOME",
+        "parent": "XIFRE",
+        "relation": "rel",
+        "depth": 7
+    },
+    {
+        "name": "UHTML",
+        "parent": "PBOME",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "WQRKI",
+        "parent": "CPSUB",
+        "relation": "rel",
+        "depth": 6
+    },
+    {
+        "name": "NIJEG",
+        "parent": "WQRKI",
+        "relation": "bind",
+        "depth": 7
+    },
+    {
+        "name": "OFYPP",
+        "parent": "NIJEG",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "RXWHU",
+        "parent": "NIJEG",
+        "relation": "conn",
+        "depth": 8
+    },
+    {
+        "name": "XULCJ",
+        "parent": "NIJEG",
+        "relation": "rel",
+        "depth": 8
+    },
+    {
+        "name": "AFLWK",
+        "parent": "WQRKI",
+        "relation": "conn",
+        "depth": 7
+    },
+    {
+        "name": "XGSBJ",
+        "parent": "AFLWK",
+        "relation": "rel",
+        "depth": 8
+    },
+    {
+        "name": "SUCDO",
+        "parent": "AFLWK",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "VHKIF",
+        "parent": "AFLWK",
+        "relation": "link",
+        "depth": 8
+    },
+    {
+        "name": "QMAUQ",
+        "parent": "CPSUB",
+        "relation": "map",
+        "depth": 6
+    },
+    {
+        "name": "SEWWQ",
+        "parent": "QMAUQ",
+        "relation": "bind",
+        "depth": 7
+    },
+    {
+        "name": "ULZHZ",
+        "parent": "SEWWQ",
+        "relation": "link",
+        "depth": 8
+    },
+    {
+        "name": "JGRMI",
+        "parent": "SEWWQ",
+        "relation": "map",
+        "depth": 8
+    },
+    {
+        "name": "TRDVC",
+        "parent": "SEWWQ",
+        "relation": "link",
+        "depth": 8
+    },
+    {
+        "name": "ZPEFB",
+        "parent": "CTJWO",
+        "relation": "rel",
+        "depth": 2
+    },
+    {
+        "name": "QSAHT",
+        "parent": "ZPEFB",
+        "relation": "rel",
+        "depth": 3
+    },
+    {
+        "name": "HFSCO",
+        "parent": "QSAHT",
+        "relation": "assoc",
+        "depth": 4
+    },
+    {
+        "name": "HBXBY",
+        "parent": "HFSCO",
+        "relation": "link",
+        "depth": 5
+    },
+    {
+        "name": "JPIOJ",
+        "parent": "HBXBY",
+        "relation": "rel",
+        "depth": 6
+    },
+    {
+        "name": "QEHAT",
+        "parent": "JPIOJ",
+        "relation": "bind",
+        "depth": 7
+    },
+    {
+        "name": "ZAYZZ",
+        "parent": "QEHAT",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "CJMGF",
+        "parent": "QEHAT",
+        "relation": "conn",
+        "depth": 8
+    },
+    {
+        "name": "IPZKU",
+        "parent": "HFSCO",
+        "relation": "relate",
+        "depth": 5
+    },
+    {
+        "name": "CLVCW",
+        "parent": "IPZKU",
+        "relation": "bind",
+        "depth": 6
+    },
+    {
+        "name": "DRRNV",
+        "parent": "CLVCW",
+        "relation": "link",
+        "depth": 7
+    },
+    {
+        "name": "LIKAU",
+        "parent": "DRRNV",
+        "relation": "bind",
+        "depth": 8
+    },
+    {
+        "name": "JOAHM",
+        "parent": "CLVCW",
+        "relation": "conn",
+        "depth": 7
+    },
+    {
+        "name": "KNXXQ",
+        "parent": "JOAHM",
+        "relation": "map",
+        "depth": 8
+    },
+    {
+        "name": "AHEYD",
+        "parent": "ZPEFB",
+        "relation": "rel",
+        "depth": 3
+    },
+    {
+        "name": "DJJVI",
+        "parent": "AHEYD",
+        "relation": "rel",
+        "depth": 4
+    },
+    {
+        "name": "TAJVB",
+        "parent": "DJJVI",
+        "relation": "conn",
+        "depth": 5
+    },
+    {
+        "name": "MYMIY",
+        "parent": "TAJVB",
+        "relation": "relate",
+        "depth": 6
+    },
+    {
+        "name": "SGFVU",
+        "parent": "MYMIY",
+        "relation": "conn",
+        "depth": 7
+    },
+    {
+        "name": "PIEIJ",
+        "parent": "SGFVU",
+        "relation": "rel",
+        "depth": 8
+    },
+    {
+        "name": "TWYCX",
+        "parent": "SGFVU",
+        "relation": "bind",
+        "depth": 8
+    },
+    {
+        "name": "XTCAL",
+        "parent": "MYMIY",
+        "relation": "relate",
+        "depth": 7
+    },
+    {
+        "name": "WWWYX",
+        "parent": "XTCAL",
+        "relation": "map",
+        "depth": 8
+    },
+    {
+        "name": "VMFUS",
+        "parent": "MYMIY",
+        "relation": "conn",
+        "depth": 7
+    },
+    {
+        "name": "DFNTH",
+        "parent": "VMFUS",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "PAPDT",
+        "parent": "VMFUS",
+        "relation": "bind",
+        "depth": 8
+    },
+    {
+        "name": "FDJYP",
+        "parent": "TAJVB",
+        "relation": "link",
+        "depth": 6
+    },
+    {
+        "name": "RMMHE",
+        "parent": "FDJYP",
+        "relation": "link",
+        "depth": 7
+    },
+    {
+        "name": "GCCDG",
+        "parent": "RMMHE",
+        "relation": "link",
+        "depth": 8
+    },
+    {
+        "name": "RGFVC",
+        "parent": "RMMHE",
+        "relation": "relate",
+        "depth": 8
+    },
+    {
+        "name": "ODEMR",
+        "parent": "RMMHE",
+        "relation": "bind",
+        "depth": 8
+    },
+    {
+        "name": "QMFED",
+        "parent": "FDJYP",
+        "relation": "relate",
+        "depth": 7
+    },
+    {
+        "name": "UWPQB",
+        "parent": "QMFED",
+        "relation": "map",
+        "depth": 8
+    },
+    {
+        "name": "BIGZG",
+        "parent": "QMFED",
+        "relation": "rel",
+        "depth": 8
+    }
+]
