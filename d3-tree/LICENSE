@@ -1,0 +1,21 @@
+
+---
+
+## `index.html`
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tree Visualization</title>
+  <link rel="stylesheet" href="src/css/style.css">
+</head>
+<body>
+  <svg width="1000" height="800"></svg>
+  <div id="tooltip" class="tooltip"></div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="src/js/utils.js"></script>
+  <script src="src/js/main.js"></script>
+</body>
+</html>
